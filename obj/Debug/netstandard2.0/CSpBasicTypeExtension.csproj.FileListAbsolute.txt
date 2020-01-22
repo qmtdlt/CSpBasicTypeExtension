@@ -1,0 +1,8 @@
+D:\学习\C#语言入门详解\018扩展方法\CSpBasicTypeExtension\bin\Debug\netstandard2.0\CSpBasicTypeExtension.deps.json
+D:\学习\C#语言入门详解\018扩展方法\CSpBasicTypeExtension\bin\Debug\netstandard2.0\CSpBasicTypeExtension.dll
+D:\学习\C#语言入门详解\018扩展方法\CSpBasicTypeExtension\bin\Debug\netstandard2.0\CSpBasicTypeExtension.pdb
+D:\学习\C#语言入门详解\018扩展方法\CSpBasicTypeExtension\obj\Debug\netstandard2.0\CSpBasicTypeExtension.csproj.CoreCompileInputs.cache
+D:\学习\C#语言入门详解\018扩展方法\CSpBasicTypeExtension\obj\Debug\netstandard2.0\CSpBasicTypeExtension.AssemblyInfoInputs.cache
+D:\学习\C#语言入门详解\018扩展方法\CSpBasicTypeExtension\obj\Debug\netstandard2.0\CSpBasicTypeExtension.AssemblyInfo.cs
+D:\学习\C#语言入门详解\018扩展方法\CSpBasicTypeExtension\obj\Debug\netstandard2.0\CSpBasicTypeExtension.dll
+D:\学习\C#语言入门详解\018扩展方法\CSpBasicTypeExtension\obj\Debug\netstandard2.0\CSpBasicTypeExtension.pdb
