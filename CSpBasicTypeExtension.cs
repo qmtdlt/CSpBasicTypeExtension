@@ -87,5 +87,42 @@ namespace CSpBasicTypeExtension
                 }
             }
         }
+        public static decimal? objToDecimal(this object obj)
+        {
+            if (obj == null)
+            {
+                return null;
+            }
+            else
+            {
+                if (decimal.TryParse(obj.ToString(),out decimal res))
+                {
+                    return res;
+                }
+                else
+                {
+                    return null;
+                }
+            }
+        }
+
+        public static float? objToFloat(this object obj)
+        {
+            if (obj == null)
+            {
+                return null;
+            }
+            else
+            {
+                if (float.TryParse(obj.ToString(),out float res))
+                {
+                    return res;
+                }
+                else
+                {
+                    return null;
+                }
+            }
+        }
     }
 }

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GfVXveNSmMwayKj2QgISgZwX5yfV2MfwUQED1fY0AA5pdkhZwma0NUM5CQ9mtZLAQE+uV4qCBqzVE0NCPLxrUA==",
+  "success": true,
+  "projectFilePath": "D:\\学习\\C#语言入门详解\\018扩展方法\\CSpBasicTypeExtension\\CSpBasicTypeExtension.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
